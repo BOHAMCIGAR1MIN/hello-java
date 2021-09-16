@@ -1,0 +1,23 @@
+package helloJava;
+
+public class Redixtest {
+
+	public static void main(String[] args) {
+		int num = 10; ///10 Literal -문자적으로, 적혀있는대로 해석해라
+		int bNum = 0B0000000000000000000000000000000000000000;
+		int bMinusNum = 0B1111111111111111111111111;
+		int bMinus2Num = 0B111111111111111111111110;
+		int bMaxnum = 0B1111111111111111111111111;
+		int bMinNum = 0B100000000000000000000000;
+		
+		
+				
+		System.out.println(num);
+		System.out.println(bNum);
+		System.out.println(bMinusNum);
+		System.out.println(bMinus2Num);
+		System.out.println(bMaxnum);
+		System.out.println(bMinNum);
+	}
+
+}
