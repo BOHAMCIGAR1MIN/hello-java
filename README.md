@@ -4,14 +4,11 @@
 
 package helloJava;
 
-public class Redixtest {
+public class hellojava {
 
 	public static void main(String[] args) {
-		int num = 10;
-		
-		System.out.println();
+		System.out.println("Hello, java");
 
 	}
 
 }
-
